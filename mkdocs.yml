@@ -1,0 +1,39 @@
+site_name: i.duque Docs
+site_url: https://example.com/
+nav:
+  - Home: index.md
+  - Abaut: abaut.md
+  - Pentesting: Pentesting.md
+  - Escan/Enum: Scanenum.md
+  - Defense Evasion: DefEvasion.md
+  - Exploit: Exploit.md
+  - C2 Frameworks: C2-Frameworks.md  
+  - PostExploit: PostExploit.md 
+  - A.Directoy/Kerberos: ActivKerb.md
+  - Web-Audit: WebAudit.md
+  - OWASP-10: Owasp10.md
+  - Attack/Def: AttackDef.md  
+  - NetAttacks/Detect: NetAttacks.md
+  - Inteligencia de Amenazas: Thread.md
+  - Cyber Defense: CybDef.md
+  - Threat Hunting: caza.md
+  - Forense: forense.md
+  - Firewall/IDS: firewall.md 
+  - Programming: Programming.md
+  - WebDev: WebDev.md 
+theme:
+    name: readthedocs
+    highlightjs: true
+    hljs_languages:
+        - yaml
+        - rust
+extra:
+  alternate:
+    - name: English
+      link: /en/ 
+      lang: en
+    - name: Spanish
+      link: /es/
+      lang: es
+extra_css: [extra.css]
+
