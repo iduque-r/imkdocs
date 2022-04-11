@@ -1,0 +1,10 @@
+- [1 - Broken Access](https://owasp.org/Top10/A01_2021-Broken_Access_Control/)
+- [2 - Fallas Criptográficas](https://owasp.org/Top10/A02_2021-Cryptographic_Failures/)
+- [3 - Inyeccion](https://owasp.org/Top10/A03_2021-Injection/)
+- [4 - Diseño inseguro](https://owasp.org/Top10/A04_2021-Insecure_Design/)
+- [5 - Configuracion incorrecta](https://owasp.org/Top10/A05_2021-Security_Misconfiguration/)
+- [6 - Componentes Vulnerables](https://owasp.org/Top10/A06_2021-Vulnerable_and_Outdated_Components/)
+- [7 - Fallos Autenticación](https://owasp.org/Top10/A07_2021-Identification_and_Authentication_Failures/)
+- [8 - Integridad datos y Software](https://owasp.org/Top10/A08_2021-Software_and_Data_Integrity_Failures/)
+- [10 - Falsificacion Solicitud del lado Servidor](https://owasp.org/Top10/A10_2021-Server-Side_Request_Forgery_%28SSRF%29/)
+
