@@ -1,5 +1,5 @@
 site_name: i.duque Docs
-site_url: imkdocs.readthedocs.io
+site_url: https://iduque-r.github.io/imkdocs/
 nav:
   - Home: index.md
   - Abaut: abaut.md
