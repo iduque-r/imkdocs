@@ -3,7 +3,6 @@ site_url: https://iduque-r.github.io/imkdocs/
 nav:
   - iduque.io: http://127.0.0.1:8000/
   - Home: index.md
-  - Abaut: abaut.md
   - Pentesting: Pentesting.md
   - Escan/Enum: Scanenum.md
   - Defense Evasion: DefEvasion.md
