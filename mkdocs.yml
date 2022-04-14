@@ -1,5 +1,5 @@
 site_name: iduque.io
-site_url: https://iduque-r.github.io/imkdocs/
+site_url: http://127.0.0.1:8000/
 nav:
   - iduque.io: http://127.0.0.1:8000/
   - Home: index.md
