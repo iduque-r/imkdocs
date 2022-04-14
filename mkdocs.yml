@@ -1,9 +1,8 @@
 site_name: iduque.io
-site_url: http://127.0.0.1:8000/
+site_url:
 nav:
   - iduque.io: http://127.0.0.1:8000/
   - Home: index.md
-  - Pentesting: Pentesting.md
   - Escan/Enum: Scanenum.md
   - Defense Evasion: DefEvasion.md
   - Exploit: Exploit.md
