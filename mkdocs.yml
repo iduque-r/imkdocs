@@ -1,5 +1,5 @@
-site_name: i.duque Docs
-site_url: https://iduque-r.github.io/imkdocs/
+site_name: iduque.io
+site_url: http://127.0.0.1:8000/
 nav:
   - Home: index.md
   - Abaut: abaut.md
