@@ -1,0 +1,1 @@
+run: mkdocs gh-deploy --clean
