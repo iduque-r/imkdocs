@@ -1,6 +1,6 @@
 # Documentación general de Ivan
 
-Web [iduque.io](https://www.mkdocs.org).
+Web [iduque.io](https://iduque.me).
 
 ## Objetivo de esta documentación
 
