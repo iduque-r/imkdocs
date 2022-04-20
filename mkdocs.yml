@@ -1,7 +1,7 @@
 site_name: iduque.io
 site_url:
 nav:
-  - iduque.io: http://127.0.0.1:8000/
+  - iduque.io: https://iduque.me/
   - Home: index.md
   - Escan/Enum: Scanenum.md
   - Defense Evasion: DefEvasion.md
