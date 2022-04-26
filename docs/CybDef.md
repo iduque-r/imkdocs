@@ -16,7 +16,7 @@
 	- Get-WinEvent -FilterXML
 
 ## Sigma 
-	- Generar consultas SIEM con ./sigmac -t
+	- Generar reglas con ./sigmac -t
 * [Sigma](https://github.com/SigmaHQ/sigma)
 * [Uncoder.io](https://uncoder.io/)
 
