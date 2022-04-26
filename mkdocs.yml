@@ -1,7 +1,7 @@
 site_name: iduque.me
 site_url:
 nav:
-  - iduque.io: https://iduque.me/
+  - iduque.me: https://iduque.me/
   - Home: index.md
   - Escan/Enum: Scanenum.md
   - Defense Evasion: DefEvasion.md
